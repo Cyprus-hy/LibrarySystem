@@ -1,0 +1,50 @@
+[ 2016-10-28T20:20:19+08:00 ] ::1 /applicationServer/Home/Actor/GetActorList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000793s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001187s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001321s ]
+SQL: SHOW COLUMNS FROM `Actor` [ RunTime:0.0041s ]
+SQL: SELECT * FROM `Actor` ORDER BY last_name  [ RunTime:0.0012s ]
+
+[ 2016-10-28T20:21:07+08:00 ] ::1 /applicationServer/Home/Actor/GetActorList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000688s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000848s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001035s ]
+SQL: SHOW COLUMNS FROM `Actor` [ RunTime:0.0046s ]
+SQL: SELECT * FROM `Actor` ORDER BY last_name  [ RunTime:0.0011s ]
+
+[ 2016-10-28T20:22:47+08:00 ] ::1 /applicationServer/Home/Actor/GetActorList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000628s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000935s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001102s ]
+SQL: SHOW COLUMNS FROM `Actor` [ RunTime:0.0053s ]
+SQL: SELECT * FROM `Actor` ORDER BY last_name  [ RunTime:0.0014s ]
+
+[ 2016-10-28T20:28:22+08:00 ] ::1 /applicationServer/Home/Actor/GetActorList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001192s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002511s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002824s ]
+SQL: SHOW COLUMNS FROM `Actor` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `Actor` ORDER BY last_name  [ RunTime:0.0015s ]
+
+[ 2016-10-28T20:28:25+08:00 ] ::1 /applicationServer/Home/Actor/GetActorList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000592s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000809s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000925s ]
+SQL: SHOW COLUMNS FROM `Actor` [ RunTime:0.0049s ]
+SQL: SELECT * FROM `Actor` ORDER BY last_name  [ RunTime:0.0011s ]
+

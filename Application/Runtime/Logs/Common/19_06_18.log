@@ -1,0 +1,12 @@
+[ 2019-06-18T16:59:39+08:00 ] ::1 /LibrarySystem/index.php/static/main.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000324s ]
+ERR: 无法加载模块:Static
+
+[ 2019-06-18T17:25:36+08:00 ] ::1 /LibrarySystem/index.php/Public/js/searchBook.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000465s ]
+ERR: 无法加载模块:Public
+
